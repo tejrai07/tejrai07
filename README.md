@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Tejash rai 
-- 👀 Currently a sophomore at KIIT
-- 🌱 I’m currently learning Jvascript,Python,Java,C++,Node.js
-- 💞️ I’m looking to collaborate on Jvascript,Python,Java,C++,Node.js 
+- 👋 Hi, I'm Tejash Rai
+- 👀 Currently a Junior at KIIT
+- 🌱 Currently exploring AWS Cloud infrastructure and AI agent Architecture
+- 💻 Building projects across the MERN stack, AI/ML, and hardware (ESP32)
+- 💬 Ask me about: Machine Learning, Java, or full-stack development
 - 😄 Pronouns: He/Him
 
 
